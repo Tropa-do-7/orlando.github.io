@@ -1,0 +1,12 @@
+:root {
+    --primary-color: #61259E;
+    --big-color: #1F2021;
+    --text-color: #fff;
+    --black-color: #161617;
+    --black50-color: rgba(21, 22, 23, .5);
+    --white10-color: rgba(255, 255, 255, .1);
+    --gray-light: #ddd;
+    --black50-color: rgba(21, 22, 23, .4);
+    --white20-color: rgba(255, 255, 255, .2);
+    --gray-dark: #707576;
+}
